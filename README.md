@@ -49,11 +49,14 @@ O objetivo foi criar um **Jogo da Memória** temático inspirado em **Rick and M
 ---
 
 ## 📸 Demonstração
+
 --Tela de inicio
+
 <img width="721" height="491" alt="image" src="https://github.com/user-attachments/assets/f88b0d76-eafa-459c-8c4c-e8cdd32efea0" />
 
 
 --Tela dentro do jogo da memória
+
 <img width="1440" height="732" alt="image" src="https://github.com/user-attachments/assets/fe9d3561-52a8-4cb4-8379-c03c98022dae" />
 
 ---
